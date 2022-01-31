@@ -4,6 +4,8 @@ public class UserModel {
 private int id;
 private String nom,prenom;
 private int age;
+private boolean etat;
+
 public int getId() {
 	return id;
 }
